@@ -1,6 +1,6 @@
-@inproceedings{Mildenhall2020NeRFRS,
-  title={NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis},
-  author={Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barron and Ravi Ramamoorthi and Ren Ng},
-  booktitle={European Conference on Computer Vision},
-  year={2020}
+@inproceedings{REPO-228,
+    author = "Mildenhall, Ben and Srinivasan, Pratul P. and Tancik, Matthew and Barron, Jonathan T. and Ramamoorthi, Ravi and Ng, Ren",
+    booktitle = "European Conference on Computer Vision",
+    title = "{NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis}",
+    year = "2020"
 }
